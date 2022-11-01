@@ -29,8 +29,5 @@
     "testPathIgnorePatterns": [
       "generator-exercise/"
     ]
-  },
-  "dependencies": {
-    "jest": "^29.2.0"
   }
 }
